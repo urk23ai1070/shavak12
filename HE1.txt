@@ -1,0 +1,195 @@
+1. The Teapot, known as the “Utah Teapot”
+
+2. TEAPOT was created at the University of Utah by Martin Newell in 1975.
+
+3. The length of an edge joining the vertex to a corner of the base is called the slant height.
+
+4. The perpendicular distance between the vertex and the base is called the height or altitude.
+
+5. When the base is a square, we call it a square pyramid.It has 4 triangular faces and a square base.
+
+6. A triangular pyramid has 3 triangular faces and a triangular base.
+
+7. A cylinder, is a pile of circles. A can is a cylinder. The base and top are circles, the sides or curved surface is a rectangle that 
+    has been wrapped around the circles.we measure the radius and circumference of the circular base and the height of the rectanglular "sides".
+
+8. The line joining the vertex to the circumference of the circular base is called slant height (like in a pyramid), and the vertical distance 
+    between the vertex and base is called the height.
+
+9. A sphere or orb is the correct term for a ball or globe.
+
+10. Constructive Solid Geometry (CSG) 
+
+11. solid modelling by generating a new object from two three dimensional objects using a set operation 
+
+12. Valid set operations include - Union ,Intersection , Difference 
+
+13. CSG does not require quadrics, it can work other types of solid representation. 
+
+14. Points  Attributes: Size, Color.
+
+15. Lines  Attributes: Color, Thickness, Type
+
+16. Polylines (open)  A set of line segments joined end to end.
+                                 Attributes: Color, Thickness, Type
+
+17. Polylines (closed)  A polyline with the last point connected to the first point .
+                                   Attributes: Color, Thickness, Type
+
+18. Polygons  A set of line segments joined end to end.
+                      Attributes: Fill color, Thickness, Fill pattern
+
+19. Line drawing is fundamental to computer graphics.
+
+20. Compute one point based on the previous point: (x0, y0).....................(xk, yk) (xk+1, yk+1) .......
+
+21. SLOPE small =  column
+
+22. SLOPE	 large = row
+
+23. Digital Differential Analyzer Algorithm is an incremental algorithm.
+
+24. DDA- Digital Differential Analyzer Algorithm 
+
+25. Coordinates of Midpoint = ( xk+1, yk+(1/2) )
+
+26. If the midpoint is below the line, then the next pixel is (xk+1, yk+1).
+
+27. If the midpoint is above the line, then the next pixel is (xk+1, yk).
+
+28. Geometric modeling is a branch of applied mathematics and computational geometry that studies methods and algorithms for the
+      mathematical description of shapes.
+
+29. three main types of geometric models:wire frame models,surface models,solid models
+
+30. GM is Introduced in 1960s
+
+31. In 1970’s developed to draw wireframe and surface models
+
+32. In mid 1980’s used to draw solid models.
+
+33. Topology - refers to the connectivity and relationship between geometric entities like vertices, edges, and faces.
+      It describes the structural shape of the model.
+
+34. Geometry refers to the actual coordinate/ dimensional values and mathematical representation of the shapes.
+
+35. CNC - COMPUTER NUMERICAL CONTROL.
+
+36.  The Teapot, known as the “Utah Teapot”
+
+37. TEAPOT was created at the University of Utah by Martin Newell in 1975.
+
+38. The length of an edge joining the vertex to a corner of the base is called the slant height.
+
+39. The perpendicular distance between the vertex and the base is called the height or altitude.
+
+40. When the base is a square, we call it a square pyramid.It has 4 triangular faces and a square base.
+
+41. A triangular pyramid has 3 triangular faces and a triangular base.
+
+42. A cylinder, is a pile of circles. A can is a cylinder. The base and top are circles, the sides or curved surface 
+      is a rectangle that has been wrapped around the circles. We measure the radius and circumference of the circular base
+      and the height of the rectanglular "sides".
+
+43. The line joining the vertex to the circumference of the circular base is called slant height (like in a pyramid),
+      and the vertical distance between the vertex and base is called the height.
+
+44. A sphere or orb is the correct term for a ball or globe.
+
+45. Constructive Solid Geometry (CSG) 
+
+46. solid modelling by generating a new object from two three dimensional objects using a set operation 
+
+47. Valid set operations include - Union ,Intersection , Difference 
+
+48. CSG does not require quadrics, it can work other types of solid representation. 
+
+49. Points  Attributes: Size, Color.
+
+50. Lines  Attributes: Color, Thickness, Type
+
+51. Polylines (open)  A set of line segments joined end to end.
+                                 Attributes: Color, Thickness, Type
+
+52. Polylines (closed)  A polyline with the last point connected to the first point .
+                                   Attributes: Color, Thickness, Type
+
+53. Polygons  A set of line segments joined end to end.
+                      Attributes: Fill color, Thickness, Fill pattern
+
+54. Line drawing is fundamental to computer graphics.
+
+55. Compute one point based on the previous point:
+      (x0, y0).....................(xk, yk) (xk+1, yk+1) .......
+
+56. SLOPE small =  column
+
+57. SLOPE	 large = row
+
+58. Digital Differential Analyzer Algorithm is an incremental algorithm.
+
+59. DDA- Digital Differential Analyzer Algorithm 
+
+60. Coordinates of Midpoint = ( xk+1, yk+(1/2) )
+
+61. If the midpoint is below the line, then the next pixel is (xk+1, yk+1).
+
+62. If the midpoint is above the line, then the next pixel is (xk+1, yk).
+
+63. Geometric modeling is a branch of applied mathematics and computational geometry that studies methods and algorithms for the mathematical description of              
+      shapes.
+
+64. three main types of geometric models:wire frame models,surface models,solid models
+
+65. GM is Introduced in 1960s
+
+66. In 1970’s developed to draw wireframe and surface models
+
+67. In mid 1980’s used to draw solid models.
+
+68. Topology - refers to the connectivity and relationship between geometric entities like vertices, edges, and faces. It describes the structural shape of the model.
+
+69. Wireframe Modelling - Developed in 1960s and referred as “a stick figure” or “an edge representation”
+
+70. Wireframe modelling disadvantage (Ambiguity- complex model difficult to interpret).
+
+71. A surface model represents the skin of an object, these skins have no thickness or material type ”
+
+72. In general, a wireframe model can be extracted from a surface model by deleting or blanking all surface entities
+
+73. Surface models define only the geometry, no topology.
+
+74. The solid modeling technique is based upon the "half-space" concept.
+
+75. Store both geometric and topological information; can verify whether two objects occupy the same space.
+
+76. Surfaces can be considered half-space boundaries and half spaces can be considered directed surfaces
+
+77. The most commonly used half-spaces are – planar, cylindrical, spherical, conical, and toroidal.
+
+80. Boundary Representation (B-Rep)
+
+81. The boundary representation method represents a solid as a collection of boundary surfaces.
+
+82.Sweeping is most convenient for solids with translational or rotational symmetry.Sweeping also has the capability to guarantee a closed object.
+
+83. Computer graphics can be created as either raster or vector images.
+
+84. Raster graphics are bitmaps.
+
+85. A bitmap is a grid of individual pixels that collectively compose an image.
+
+86. Raster graphics render images as a collection of countless tiny squares.
+
+87. Each square, or pixel, is coded in a specific hue or shade.
+
+88. The data behind the raster is a matrix organized by rows and columns
+
+89. Squares represent the raster data that describe the features’ interiors, and vector data is a description of the boundaries or exteriors.
+
+90. wireframe model - is built up using a series of connected lines. This image can be simplified by removing lines that are hidden.
+
+91. surface model - is built up by drawing the surfaces of an object. Colours, shading and textures can be added to produce realistic-looking images.
+
+92.solid model - is built up using simple geometric forms such as cones,cylinders, prisms and cuboids. These can be added or subtracted to produce complex 3-D models
+
